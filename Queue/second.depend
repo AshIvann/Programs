@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1682697138 source:s:\personal\ashihmin\second\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dg.h"
+	"queue.c"
+
+1682693863 s:\personal\ashihmin\second\dg.h
+
+1682698565 s:\personal\ashihmin\second\queue.c
+	"dg.h"
+	<stdlib.h>
+
+1682697138 source:s:\personal\ashihmin\нужное для github\second\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dg.h"
+	"queue.c"
+
+1682693863 s:\personal\ashihmin\нужное для github\second\dg.h
+
+1682698565 s:\personal\ashihmin\нужное для github\second\queue.c
+	"dg.h"
+	<stdlib.h>
+
